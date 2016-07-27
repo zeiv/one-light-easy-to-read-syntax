@@ -1,15 +1,15 @@
 {
-  "name": "one-light-syntax",
+  "name": "one-light-easy-to-read-syntax",
   "theme": "syntax",
-  "version": "1.3.0",
-  "description": "Atom One light syntax theme",
+  "version": "0.0.1",
+  "description": "One Light for dark theme lovers.",
   "keywords": [
-    "light",
-    "syntax"
+    "syntax",
+    "theme"
   ],
-  "repository": "https://github.com/atom/one-light-syntax",
+  "repository": "https://github.com/atom/one-light-easy-to-read-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">0.40.0"
+    "atom": ">=1.0.0 <2.0.0"
   }
 }

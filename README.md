@@ -1,11 +1,5 @@
-## One Light Syntax theme
+# one-light-easy-to-read-syntax theme
 
-![one-syntax-light](https://cloud.githubusercontent.com/assets/378023/7783214/c146b4e6-0174-11e5-8377-a57cf0274d5d.png)
+One Light, but easier on the eyes for those used to dark themes.
 
-> The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
-
-There is also a matching [UI theme](https://atom.io/themes/one-light-ui).
-
-### Install
-
-This theme is installed by default with Atom and can be activated by going to the __Settings > Themes__ section and selecting it from the __Syntax Themes__ drop-down menu.
+![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
