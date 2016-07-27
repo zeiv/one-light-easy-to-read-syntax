@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/one-light-easy-to-read-syntax",
+  "repository": "https://github.com/zeiv/one-light-easy-to-read-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
